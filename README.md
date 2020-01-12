@@ -1,3 +1,1 @@
-# PC-Engine-Information
-
-Check the Wiki for more information!
+Wiki for PC Engine and TurboGrafx-16 technical information.
